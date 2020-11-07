@@ -1,2 +1,0 @@
-# skillrescue
-GitHub Pages
